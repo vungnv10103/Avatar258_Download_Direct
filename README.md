@@ -18,3 +18,7 @@
 Bản quyền thuộc về [**TeaMobi**](http://teamobi.com/home/trang-chu.html "Avatar-Thanh-Pho-Dieu-Ky")
 
 ## Mod by: Vững Nguyễn
+
+<a href="https://www.facebook.com/vung.tc10" target="blank"><img src="assets/facebook.png" alt="vungnv99" height="48" width="48" /></a>
+<a href="https://t.me/vungtc" target="blank">
+<img src="assets/telegram.png" alt="@vungnguyenn" height="48" width="48" /></a>
