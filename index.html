@@ -26,6 +26,8 @@
 
 <body>
     <div class="container">
+        <!-- <button class="btn btn-primary" onclick="window.open('data.txt', '_blank')">Link</button> -->
+        <!-- <pre id="output" style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;"></pre> -->
         <h1 class="my-3">Danh sách phiên bản</h1>
         <br>
         <div id="buttons" class="mb-3"></div>
@@ -54,6 +56,21 @@
     </div>
 
     <script>
+        function loadText() {
+            fetch('data.txt')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Không thể đọc file');
+                    }
+                    return response.text();
+                })
+                .then(data => {
+                    document.getElementById('output').textContent = data;
+                })
+                .catch(error => {
+                    document.getElementById('output').textContent = 'Lỗi: ' + error.message;
+                });
+        }
         const file_links = [
             { version: "Avatar258_140425", url: "https://download1500.mediafire.com/m439plsi0bugaS3BIlXtRgufSYK8b-fliUWcy7cWLqrlCgpTsIsy0XAycgatXfHTTdwD2T1pnvE7H5lFZsYIrh_8tGrZtRzGbpJnsr_VWVmgdYtz-TT9PM388Oo_5uGdppYUBFtX2upoD75eFlYQYF64DtcEx6clEPwOEUcVNEPYKQ/f5u2xggc04t4c4z/Avatar258_140425.jar" },
             { version: "Avatar258_140425x2", url: "https://download1587.mediafire.com/1taf23pczwhgowyHs_4obEOv271_GIrghYK318XRGOOqPkp7yn8y90PA1g813boaq07FWJ0AmFRvn-J96hEaMnMn-S0ZguFnu1KtMdR7S7JwiSI1ERaolhZ1umx0KSCLEwpl6KL8Nt_UY2kgjbbO95qtKXGDyKjf9xz-ObKEiErhfg/c2vxr8f8i1php3f/Avatar258_140425x2.jar" },

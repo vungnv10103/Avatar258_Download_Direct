@@ -1,0 +1,99 @@
+[
+    {
+        "_id": "649569cfeac1bf27099ef42e",
+        "name": "HTML CSS từ ZERO đến HERO",
+        "description": "Xin chào các bạn, đây là video đầu tiên trong chuỗi bài học lập trình web cơ bản dành cho người mới bắt đầu.",
+        "image": "https://img.youtube.com/vi/R6plN3FvzFY/sddefault.jpg",
+        "videoId": "R6plN3FvzFY",
+        "level": "Beginner",
+        "createdAt": "2023-06-23T09:45:51.374Z",
+        "updatedAt": "2023-06-25T10:41:32.719Z",
+        "slug": "html-css-tu-zero-den-hero",
+        "__v": 0
+    },
+    {
+        "_id": "649589c05bc44a99e45e0e68",
+        "name": "Javascript Nâng Cao",
+        "description": "Lập Trình JavaScript Nâng Cao Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types,...",
+        "image": "https://img.youtube.com/vi/MGhw6XliFgo/sddefault.jpg",
+        "videoId": "MGhw6XliFgo",
+        "level": "Mid level",
+        "createdAt": "2023-06-23T12:02:08.160Z",
+        "updatedAt": "2023-06-25T10:13:41.358Z",
+        "slug": "javascript-nang-cao",
+        "__v": 0
+    },
+    {
+        "_id": "649589e05bc44a99e45e0e6c",
+        "name": "Javascript Cơ bản",
+        "description": "Khoá học Javascript Cơ bản, Khoá học Javascript Cơ bản, Khoá học Javascript Cơ bản, Khoá học Javascript Cơ bản, Khoá học Javascript Cơ bản",
+        "image": "https://img.youtube.com/vi/0SJE9dYdpps/sddefault.jpg",
+        "videoId": "0SJE9dYdpps",
+        "level": "Beginner",
+        "createdAt": "2023-06-23T12:02:40.444Z",
+        "updatedAt": "2023-06-25T10:13:41.893Z",
+        "slug": "javascript-co-ban",
+        "__v": 0
+    },
+    {
+        "_id": "64958b275bc44a99e45e0e73",
+        "name": "Xây Dựng Website với ReactJS",
+        "description": "Khóa học ReactJS từ cơ bản tới nâng cao, kết quả của khóa học này là bạn có thể làm hầu hết các dự án thường gặp với ReactJS.",
+        "image": "https://img.youtube.com/vi/x0fSBAgBrOQ/sddefault.jpg",
+        "videoId": "x0fSBAgBrOQ",
+        "level": "Mid level",
+        "createdAt": "2023-06-23T12:08:07.773Z",
+        "updatedAt": "2023-06-25T10:13:42.355Z",
+        "slug": "xay-dung-website-voi-reactjs",
+        "__v": 0
+    },
+    {
+        "_id": "64958c5f5bc44a99e45e0e79",
+        "name": "Làm việc với Terminal & Ubuntu",
+        "description": "Sở hữu một Terminal hiện đại, mạnh mẽ trong tùy biến và học cách làm việc với Ubuntu trên con đường trở thành một Web Developer.",
+        "image": "https://img.youtube.com/vi/7ppRSaGT1uw/sddefault.jpg",
+        "videoId": "7ppRSaGT1uw",
+        "level": "Beginner",
+        "createdAt": "2023-06-23T12:13:19.392Z",
+        "updatedAt": "2023-06-25T10:13:42.822Z",
+        "slug": "lam-viec-voi-terminal-and-ubuntu",
+        "__v": 0
+    },
+    {
+        "_id": "649735e91e2f936c2f056f23",
+        "name": "Làm việc với Terminal & Ubuntu",
+        "description": "Sở hữu một Terminal hiện đại, mạnh mẽ trong tùy biến và học cách làm việc với Ubuntu trên con đường trở thành một Web Developer.",
+        "image": "https://img.youtube.com/vi/7ppRSaGT1uw/sddefault.jpg",
+        "videoId": "7ppRSaGT1uw",
+        "level": "Mid level",
+        "createdAt": "2023-06-24T18:28:57.956Z",
+        "updatedAt": "2023-06-26T12:27:39.966Z",
+        "slug": "lam-viec-voi-terminal-and-ubuntu-Euqh8fSBu",
+        "__v": 0
+    },
+    {
+        "_id": "649813c9e986157edfb4516e",
+        "name": "Vững Nguyễn 111",
+        "description": "Xin chào các bạn, đây là video đầu tiên trong chuỗi bài học lập trình web cơ bản dành cho người mới bắt đầu.",
+        "image": "https://img.youtube.com/vi/LnTPJcUQdNU/sddefault.jpg",
+        "videoId": "LnTPJcUQdNU",
+        "level": "Beginner",
+        "createdAt": "2023-06-25T10:15:37.360Z",
+        "updatedAt": "2023-06-26T12:27:40.583Z",
+        "slug": "vung-nguyen-111",
+        "__v": 0
+    },
+    {
+        "_id": "64997ac8d69941dfff5134fa",
+        "name": "HTML CSS từ ZERO đến HERO",
+        "description": "Xin chào các bạn, đây là video đầu tiên trong chuỗi bài học lập trình web cơ bản dành cho người mới bắt đầu. 1",
+        "image": "https://img.youtube.com/vi/R6plN3FvzFY/sddefault.jpg",
+        "videoId": "R6plN3FvzFY",
+        "level": "Mid level",
+        "deleted": false,
+        "createdAt": "2023-06-26T11:47:20.809Z",
+        "updatedAt": "2023-06-26T11:47:20.809Z",
+        "slug": "html-css-tu-zero-den-hero-0YakLN7LD",
+        "__v": 0
+    }
+]
